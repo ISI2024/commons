@@ -1,0 +1,23 @@
+// analyzer send examination results
+
+{
+  "kind": "FINISHED_ANALYZE",
+  "data": {
+    "id": 5,
+    "fk_user": "adamozo",
+    "analyzer": "121121",
+    "examination_date": "2024-05-03 23:54:48.197062",
+    "leukocytes": "2137",
+    "nitrite": null,
+    "urobilinogen": null,
+    "protein": null,
+    "ph": null,
+    "blood": null,
+    "specific_gravity": null,
+    "ascorbate": null,
+    "ketone": null,
+    "bilirubin": null,
+    "glucose": null,
+    "micro_albumin": null
+  }
+}

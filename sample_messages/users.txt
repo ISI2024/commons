@@ -1,0 +1,7 @@
+{"kind": "NEW_USER","data": {"login":"kutacz10","email":"ur10@mo.m","wallet":21.37}}
+
+{"kind": "UPDATE","data": {"login":"kutacz","email":"ur4@mo.m","wallet":421.37}}
+
+{"kind": "DELETE","data": {"login":"kutacz","email":"ur@mo.m","wallet":21.37}}
+
+{"kind": "CHANGE_WALLET","data": {"login":"kutacz","email":"ur2@mo.m","wallet":-11.37}}
