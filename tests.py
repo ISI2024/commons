@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-from commons.enums import TestsEventType
+from enums import TestsEventType
 from typing import Optional
 
 

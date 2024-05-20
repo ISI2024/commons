@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-from commons.enums import UsersEventType
+from enums import UsersEventType
 
 class QrCodeData(BaseModel):
     login: str
