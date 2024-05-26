@@ -21,4 +21,4 @@ class UserVerification(BaseModel):
 
 class UsersEvent(BaseModel):
     kind: UsersEventType
-    data: UserData | WalletChangeData
+    data: UserData | UserVerification | WalletChangeData
